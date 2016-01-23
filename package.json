@@ -27,5 +27,9 @@
     "materialize"
   ],
   "author": "Karim Oulad Chalha",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karim88/turnoff.git"
+  }
 }
